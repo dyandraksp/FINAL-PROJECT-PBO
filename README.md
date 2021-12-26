@@ -40,3 +40,11 @@ Rahmat Arjun Nabawi :
 - NasabahDataModel.java
 
 -------------------------------------------
+
+Class diagram :
+![ClassDiagram_ProjekPBO drawio](https://user-images.githubusercontent.com/54878642/147411415-7da4234f-5b7d-449a-82b7-99f80eba66f7.png)
+
+ER Diagram :
+![ERD_ProjekPBO drawio](https://user-images.githubusercontent.com/54878642/147411427-de2bd149-b0f9-4067-9a9c-7f21d5ae81c0.png)
+
+
