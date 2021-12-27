@@ -1,17 +1,5 @@
 # Kelompok 4
 
-About this project:
-
-Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
-
-Libraries dan tools :
-
-- sqlite-jdbc-3.36.0.3.jar
-- scene builder
-- DB Browser
-- netbean editor
--------------------------------------------
-
 Anggota Kelompok 4 :
 
 - Dyandra Ayu KSP - 2007051027
@@ -25,7 +13,7 @@ Pembagian Tugas :
 Dyandra Ayu KSP :
 - Nasabah.java
 - Rekening.java
-- Utama.java
+- FinalProjectPBO4.java
 - DBHelper.java
 - Design FXMLDocument.fxml
 
