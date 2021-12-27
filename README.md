@@ -4,7 +4,7 @@ About this project:
 
 Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
 
-Libraries and Tools of this project:
+Libraries dan tools :
 
 - sqlite-jdbc-3.36.0.3.jar
 - scene builder
@@ -23,21 +23,21 @@ Anggota Kelompok 4 :
 Pembagian Tugas :
 
 Dyandra Ayu KSP :
-- Individu.java
-- Perusahaan.java
+- Nasabah.java
 - Rekening.java
 - Utama.java
 - DBHelper.java
-- Design NasabahForm.fxml
+- Design FXMLDocument.fxml
 
  Dimas Ageng Triyasa :
-- NasabahFormController.java
+- FXMLDocumentController.java
 - Design Diagram
 - Error Handling
 
 Rahmat Arjun Nabawi :
-- Nasabah.java
-- NasabahDataModel.java
+- Individu.java
+- Perusahaan
+- rekeningDataModel.java
 
 -------------------------------------------
 
