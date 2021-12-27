@@ -15,10 +15,10 @@ Dyandra Ayu KSP :
 - Rekening.java
 - FinalProjectPBO4.java
 - DBHelper.java
-- Design FXMLDocument.fxml
+- FXMLDocumentController.java
 
  Dimas Ageng Triyasa :
-- FXMLDocumentController.java
+- Design FXMLDocument.fxml
 - Design Diagram
 - Error Handling
 
