@@ -24,7 +24,7 @@ Dyandra Ayu KSP :
 
 Rahmat Arjun Nabawi :
 - Individu.java
-- Perusahaan
+- Perusahaan.java
 - rekeningDataModel.java
 
 -------------------------------------------
